@@ -1,8 +1,8 @@
 body {background-color: #070707; text-align: justify;font-size: 18px;}
 h1 {text-align: center;background-color: #8d8d8d ;color: #8f8f8f; }
-h3 {text-align: justify;color:#fffefe; }
+h3 {text-align: justify;color:#5e5e5e; }
 b {color: rgb(25, 0, 252); font-size: 18px; }
-i {color: rgb(240, 240, 240); font-size: 18px; }
+i {color: rgb(141, 141, 141); font-size: 18px; }
 header, footer{ background-color: #000000; color: #8d8d8d; text-align: center; font-size: 20px; }
 main {background-color: hsl(0, 0%, 55%);}
 .primeiroparagrafo{text-align: justify; font-size: 18px; border:#000000 2px; padding: 10px; margin: 10px}

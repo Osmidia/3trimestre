@@ -1,5 +1,5 @@
 # 3trimestre
-Colégio Estadual João de Faria Pioli
+- Colégio Estadual João de Faria Pioli
 - Projeto de Pensamento Computacional
 - Nome: Gabriel Henrique Souza e Juan de Souza Rissato 
 - Série: 1°A
